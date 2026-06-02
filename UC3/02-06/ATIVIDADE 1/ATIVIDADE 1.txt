@@ -1,0 +1,5 @@
+1) Dado é um valor sem contexto, já a informação é o dado organizado e com significado.
+
+2) Um banco de dados serve para armazenar, organizar e gerenciar informações de forma segura.
+
+3) Instagram, WhatsApp, Nubank, KaBum, Mercado Livre, Amazon, TikTok, Uber, Jogos Online...
